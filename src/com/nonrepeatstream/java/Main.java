@@ -1,2 +1,8 @@
-package com.nonrepeatstream.java;public class Main {
+package com.nonrepeatstream.java;
+
+
+import java.util.Scanner;
+
+public class Main {
+
 }
